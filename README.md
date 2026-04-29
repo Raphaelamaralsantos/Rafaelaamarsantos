@@ -6,7 +6,7 @@ Estudante de Sistemas de Informação focado em desenvolvimento de software e co
 
 ## 💻 Tecnologias
 - Java
-- Spring Boot
+- "Spring Boot"
 - PHP
 - HTML / CSS
 - MySQL
