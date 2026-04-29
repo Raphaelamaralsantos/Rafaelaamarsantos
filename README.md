@@ -13,6 +13,11 @@ Estudante de Sistemas de Informação focado em desenvolvimento de software e co
 - Git / GitHub
 
 ---
+## 📚 Cursos
+
+- Git e GitHub: Curso completo de Git е
+GitHub - Básico ao
+Avançado -Udemy
 
 ## 🌐 Conhecimentos adicionais
 - Fundamentos de Redes de Computadores
